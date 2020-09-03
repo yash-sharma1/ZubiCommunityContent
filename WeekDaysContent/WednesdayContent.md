@@ -1,5 +1,5 @@
 <h2>On Every Wednesday, We share useful GitHub :octocat: Repositories and websites which actually help developers and students in building their projects </h1>
-<h3> Here, you'll finf all of them which we shared till now, feel free to fork to repo and show some LOVE ❤ by giving STAR ⭐ </h3>
+<h3> Here, you'll find all of them which we shared till now, feel free to fork the repo and show some LOVE ❤ by giving STAR ⭐ </h3>
 <h3> ☑️ Useful GitHub :octocat: Repositories - </h3>
 
 📌Texthero (https://github.com/jbesomi/texthero) 
