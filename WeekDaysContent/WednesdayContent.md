@@ -2,40 +2,41 @@
 <h3> Here, you'll find all of them which we shared till now, feel free to fork the repo and show some LOVE ❤ by giving STAR ⭐ </h3>
 <h3> ☑️ Useful GitHub :octocat: Repositories - </h3>
 
-📌Texthero (https://github.com/jbesomi/texthero) 
+
+📌 Texthero (https://github.com/jbesomi/texthero) 
 -Texthero is a Python package for working with text-based data. It is designed to be used on top of Pandas. Texthero includes tools for preprocessing text data, natural language processing, text representation, vector space analysis, and text visualization. Examples are provided in the repository.
 
-📌Easy OCR (https://github.com/JaidedAI/EasyOCR) 
+📌 Easy OCR (https://github.com/JaidedAI/EasyOCR) 
 -Easy OCR is a package for detecting text in images. It supports 42 languages, including Chinese, Japanese, Korean, and Thai. Examples and a list of supported languages are available in the repository.
 
-📌Tsunami (https://github.com/google/tsunami-security-scanner) 
+📌 Tsunami (https://github.com/google/tsunami-security-scanner) 
 -Tsunami is a general network security scanner for detecting high severity vulnerabilities with confidence. It relies heavily on its plugin system, with all publicly available plugins hosted in a separate linked repository.
 
-📌GoPlus (https://github.com/goplus/gop) 
+📌 GoPlus (https://github.com/goplus/gop) 
 -Go+ is a static typed language that is fully compatible with the Go language. It has a script-like style, resulting in more readable code. Go+ supports list comprehensions, for loops, rational numbers, map and slice literals, and more.
 
-📌Lens (https://github.com/lensapp/lens)
+📌 Lens (https://github.com/lensapp/lens)
 -Lens is a cross-platform user interface for managing Kubernetes clusters. It has support for multi-cluster management, real-time cluster state visualization, terminal access to nodes and containers, and more. A three-minute video is available that explores the Lens UI.
 
-📌Build Your Own Botnet  (https://github.com/malwaredllc/byob)
+📌 Build Your Own Botnet  (https://github.com/malwaredllc/byob)
 -This repository contains a framework to build and operate a basic botnet. Developers can easily implement custom code and new features without having to write a Remote Administrative Tool or Command & Control server from scratch. The RAT can remotely load code into memory and execute it on the target machine without writing anything to disk. This project should be used for authorized testing or educational purposes only.
 
-📌Css-media-vars (https://github.com/jbesomi/texthero) 
+📌 Css-media-vars (https://github.com/jbesomi/texthero) 
 -css-media-vars is a framework for writing responsive CSS using named breakpoints and dry selectors. It doesn't require any additional scripts or builds. A guide with multiple examples and demos is available.
 
-📌Awesome Flutter(https://github.com/erluxman/awesomefluttertips) 
+📌 Awesome Flutter(https://github.com/erluxman/awesomefluttertips) 
 -This repository contains 98 tips and tricks for Flutter. The list includes widgets, plugins, code, and examples.
 
-📌Silice (https://github.com/sylefeb/Silice) 
+📌 Silice (https://github.com/sylefeb/Silice) 
 -Silice is an open-source language for writing algorithms that fully exploit FPGA architectures. It is closely integrated with FPGA hardware so developers have full control. FPGA hardware is not required to start with Silice as designs and their outputs can be simulated and visualized.
 
-📌Dflat (https://github.com/liuliu/dflat) 
+📌 Dflat (https://github.com/liuliu/dflat) 
 -Dflat is a structured data persistence system for mobile. It returns immutable data objects that can be passed down to other systems, fetches data concurrently and synchronously on any thread, and more. Unlike alternatives like Core Data, Dflat is built entirely using Swift.
 
-📌HonKit (https://github.com/honkit/honkit)
+📌 HonKit (https://github.com/honkit/honkit)
 -HonKit is a package for building books using GitHub/Git and Markdown. It is a fork of GitBook and works with almost all GitBook plugins without changes. The documentation also serves as a demo as it was built using HonKit.
 
-📌oneshot (https://github.com/raphaelreyna/oneshot)
+📌 oneshot (https://github.com/raphaelreyna/oneshot)
 -oneshot is an easy way to set up an HTTP server to share files, web pages, or other outputs using the command line. Users just need to specify the path to a file and oneshot will make it available via HTTP on the computer's IP address. Secure file transfers are supported.
 
 📌 Awesome GPT-3 (GitHub Repo) (https://github.com/elyase/awesome-gpt3)
@@ -61,3 +62,4 @@ Opacus enables training PyTorch models with differential privacy. It was designe
 
 📌 OpenBot (GitHub Repo) (https://github.com/intel-isl/OpenBot)
 OpenBot leverages a smartphone's sensing and computation capabilities to create a low-cost robot. The project includes a design for a small electric vehicle that serves as a robot body. OpenBot supports advanced robotics workloads such as person following and real-time autonomous navigation. It is for Android smartphones only.
+
