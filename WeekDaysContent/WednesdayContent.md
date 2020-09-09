@@ -19,3 +19,9 @@
 
 📌Build Your Own Botnet  (https://github.com/malwaredllc/byob)
 -This repository contains a framework to build and operate a basic botnet. Developers can easily implement custom code and new features without having to write a Remote Administrative Tool or Command & Control server from scratch. The RAT can remotely load code into memory and execute it on the target machine without writing anything to disk. This project should be used for authorized testing or educational purposes only.
+
+📌 Figma to Code (https://github.com/bernaferrari/FigmaToCode) (GitHub Repo)
+-Figma to Code is a Figma plugin that generates responsive pages and apps on Tailwind, Flutter, and SwiftUI. It optimizes the layout before the conversion to code begins, improving code quality.
+
+📌 Awesome System Design (https://github.com/madd86/awesome-system-design) (GitHub Repo)
+-This repository contains a list of system design resources. It contains articles, books, videos, and tools. Topics include distributed computing, microservices, case studies, and more.
