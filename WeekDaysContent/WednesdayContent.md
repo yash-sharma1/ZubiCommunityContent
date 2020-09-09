@@ -63,3 +63,8 @@ Opacus enables training PyTorch models with differential privacy. It was designe
 📌 OpenBot (GitHub Repo) (https://github.com/intel-isl/OpenBot)
 OpenBot leverages a smartphone's sensing and computation capabilities to create a low-cost robot. The project includes a design for a small electric vehicle that serves as a robot body. OpenBot supports advanced robotics workloads such as person following and real-time autonomous navigation. It is for Android smartphones only.
 
+📌 Figma to Code (https://github.com/bernaferrari/FigmaToCode) (GitHub Repo)
+Figma to Code is a Figma plugin that generates responsive pages and apps on Tailwind, Flutter, and SwiftUI. It optimizes the layout before the conversion to code begins, improving code quality.
+
+📌 Awesome System Design (https://github.com/madd86/awesome-system-design) (GitHub Repo)
+This repository contains a list of system design resources. It contains articles, books, videos, and tools. Topics include distributed computing, microservices, case studies, and more.
